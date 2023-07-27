@@ -15,4 +15,4 @@ Aperfeiçoando as habilidades em:
 - HJTML, CSS e JS
 - Python
 
-
+Aberto ao mercado de trabalho.
